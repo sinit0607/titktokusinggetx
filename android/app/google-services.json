@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "272898359306",
+    "project_id": "sinittiktok-3a792",
+    "storage_bucket": "sinittiktok-3a792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272898359306:android:54c4477a42cb79f5055ff3",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272898359306-7m7mqpbmslte74pj1b1jb9tfnupkco4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktok",
+            "certificate_hash": "1f8aaa45e1e33b63b68c843ef5df0c9c1fc08fa9"
+          }
+        },
+        {
+          "client_id": "272898359306-mv9ofcr4qkua6669933g5d5l0dcm4a20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGTnh40in2hvKJGBb7tCG4NAUf4rcc7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272898359306-mv9ofcr4qkua6669933g5d5l0dcm4a20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
